@@ -1,0 +1,10 @@
+C:\Users\gelot dashrath\Desktop\c#\profile\profile\bin\Debug\profile.exe.config
+C:\Users\gelot dashrath\Desktop\c#\profile\profile\bin\Debug\profile.exe
+C:\Users\gelot dashrath\Desktop\c#\profile\profile\bin\Debug\profile.pdb
+C:\Users\gelot dashrath\Desktop\c#\profile\profile\obj\Debug\profile.csprojAssemblyReference.cache
+C:\Users\gelot dashrath\Desktop\c#\profile\profile\obj\Debug\profile.Form1.resources
+C:\Users\gelot dashrath\Desktop\c#\profile\profile\obj\Debug\profile.Properties.Resources.resources
+C:\Users\gelot dashrath\Desktop\c#\profile\profile\obj\Debug\profile.csproj.GenerateResource.cache
+C:\Users\gelot dashrath\Desktop\c#\profile\profile\obj\Debug\profile.csproj.CoreCompileInputs.cache
+C:\Users\gelot dashrath\Desktop\c#\profile\profile\obj\Debug\profile.exe
+C:\Users\gelot dashrath\Desktop\c#\profile\profile\obj\Debug\profile.pdb
