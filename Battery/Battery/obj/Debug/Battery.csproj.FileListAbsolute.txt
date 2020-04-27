@@ -1,0 +1,10 @@
+C:\Users\gelot dashrath\Desktop\c#\Battery\Battery\bin\Debug\Battery.exe.config
+C:\Users\gelot dashrath\Desktop\c#\Battery\Battery\bin\Debug\Battery.exe
+C:\Users\gelot dashrath\Desktop\c#\Battery\Battery\bin\Debug\Battery.pdb
+C:\Users\gelot dashrath\Desktop\c#\Battery\Battery\obj\Debug\Battery.csprojAssemblyReference.cache
+C:\Users\gelot dashrath\Desktop\c#\Battery\Battery\obj\Debug\Battery.Form1.resources
+C:\Users\gelot dashrath\Desktop\c#\Battery\Battery\obj\Debug\Battery.Properties.Resources.resources
+C:\Users\gelot dashrath\Desktop\c#\Battery\Battery\obj\Debug\Battery.csproj.GenerateResource.cache
+C:\Users\gelot dashrath\Desktop\c#\Battery\Battery\obj\Debug\Battery.csproj.CoreCompileInputs.cache
+C:\Users\gelot dashrath\Desktop\c#\Battery\Battery\obj\Debug\Battery.exe
+C:\Users\gelot dashrath\Desktop\c#\Battery\Battery\obj\Debug\Battery.pdb
